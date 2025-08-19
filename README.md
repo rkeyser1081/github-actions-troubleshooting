@@ -91,7 +91,7 @@ Commit and push. Re-check the **Actions** run; it should be green now.
 ---
 
 ## Expected end state
-
+ 
 * Workflow file lives at `.github/workflows/microservice.yml`.
 * `actions/checkout` uses a valid version (`@v4`).
 * The test in `tests/test_example.py` passes.
